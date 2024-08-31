@@ -23,7 +23,5 @@ Currently working with the below technologies.
 
 
 <br>
-Your sincerely,
-<br>
-<br>
+Thanks,
 RC
