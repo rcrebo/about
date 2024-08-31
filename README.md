@@ -21,7 +21,7 @@ Currently working with the following tech stack and honing my skills with each p
 * AWS
 * Azure
 
-<br>
+
 <br>
 Your sincerely,
 <br>
