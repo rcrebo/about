@@ -4,7 +4,7 @@ Welcome to my GitHub.
 
 I currently use GitHub to save useful links for Data Analytics and Software Development, which you can find in my Dev repositary.
 
-Currently working mostly with the following stack and honing my skills with each project.
+Working with the following stack and honing my skills with each project.
 * DAX
 * Powerquery M
 * Power Platform
