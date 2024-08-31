@@ -8,7 +8,8 @@ Currently working with the below technologies.
 
 * DAX
 * Powerquery M
-* Power Platform
+* Power Platform (BI, Automate, Apps)
+* SQL
 * Python
 * HTML
 * CSS
