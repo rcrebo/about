@@ -2,9 +2,10 @@
 
 Welcome to my GitHub.
 
-I currently use GitHub to save useful links for Data Analytics and Software Development, which you can find in my Dev repositary.
+I keep a record of resources that I find useful for data analytics and software development in my *dev* repositary, pinned below.
 
-Working with the following stack and honing my skills with each project.
+Currently working with the following tech stack and honing my skills with each project.
+
 * DAX
 * Powerquery M
 * Power Platform
@@ -23,3 +24,10 @@ Working with the following stack and honing my skills with each project.
 * Claude AI
 * Cursor
 * VS Code
+
+<br>
+<br>
+Your sincerely,
+<br>
+<br>
+RC
