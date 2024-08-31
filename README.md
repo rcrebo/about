@@ -20,10 +20,6 @@ Currently working with the following tech stack and honing my skills with each p
 * Flask
 * AWS
 * Azure
-* Replit
-* Claude AI
-* Cursor
-* VS Code
 
 <br>
 <br>
