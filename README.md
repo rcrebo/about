@@ -15,12 +15,14 @@ Currently working with the below technologies.
 * CSS
 * Tailwind CSS
 * JS
+* Recharts.js
 * React
 * HTMX
 * Django
 * Flask
 * AWS
 * Azure
+* Heroku
 
 
 <br>
